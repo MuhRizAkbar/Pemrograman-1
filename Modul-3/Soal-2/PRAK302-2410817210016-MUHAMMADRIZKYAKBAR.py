@@ -9,6 +9,6 @@ elif Nilai >= 60:
 elif Nilai >= 50:
     print("D")
 elif Nilai < 50:
-    print("F")
+    print("E")
 else:
     print("Invalid")
